@@ -5,12 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="def40d66-a570-4b1c-affe-9139360f6214" name="Changes" comment="Addition of Selenide Dependency">
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/harender/ReUsableMethods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/harender/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/harender/AppTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -54,7 +63,7 @@
     &quot;zielu.gittoolbox.prj.config.selected.tab.id&quot;: &quot;zielu.gittoolbox.config.prj.diagnostic&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.&lt;default&gt; (1)">
+  <component name="RunManager" selected="TestNG.AppTest.shouldAnswerWithTrue">
     <configuration name="AppTest" type="TestNG" nameIsGenerated="true">
       <module name="SelenideWithTestNG_Java" />
       <shortenClasspath name="NONE" />
@@ -118,10 +127,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.AppTest.shouldAnswerWithTrue" />
         <item itemvalue="TestNG.&lt;default&gt; (1)" />
         <item itemvalue="TestNG.&lt;default&gt;" />
         <item itemvalue="TestNG.AppTest" />
-        <item itemvalue="TestNG.AppTest.shouldAnswerWithTrue" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +175,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713450321072</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Addition of Selenide Dependency">
+      <option name="closed" value="true" />
+      <created>1713524689374</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713524689374</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
